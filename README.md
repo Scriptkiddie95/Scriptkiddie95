@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scriptkiddie95
+- 👋 Hi, I’m @Scriptkiddie95 from Germany
 - 👀 I’m interested in web applications 
 - 🌱 I’m currently learning some of google APIs 
 - 💞️ I’m looking to collaborate on a long while to grow
